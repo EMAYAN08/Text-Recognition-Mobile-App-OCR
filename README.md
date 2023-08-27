@@ -9,16 +9,10 @@ A simple Android OCR (Optical Character Recognition) application that makes use 
 
 # Demo App
 
-<p align="center">
-  <a href="https://github.com/achmadqomarudin/Android-OCR/releases/latest/download/app-demo.apk">
-    <img src="https://www.inspirefm.org/wp-content/uploads/button-apk.png" height="100">
-  </a>
-</p>
-
 <table style="width:100%">
   <tr>
-    <th>Example 1</th>
-    <th>Example 2</th>
+    <th>Camera Functionality</th>
+    <th>File Directory Functionality</th>
   </tr>
   <tr>
     <td><img src="screenshots/1.gif"/></td>
